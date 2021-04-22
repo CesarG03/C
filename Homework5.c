@@ -14,7 +14,7 @@
 #define EspacioDescubierto ' '
 #define Minas 'X'
 #define CuantasMinas 7  
-#define DescubrirMinas 1 
+#define DescubrirMinas 0 
 
 
 int obtenerMinasCercanas(int fila, int columna, char tablero[FILAS][COLUMNAS]);
