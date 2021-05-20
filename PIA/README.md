@@ -25,14 +25,14 @@ https://parzibyte.me/blog/2018/11/08/redondear-numeros-en-c/
 
 ## Self-evaluation
 
-1: Complexity 1 (The program is quite simple)
+1: Complexity 2 (The program is quite simple)
 
 2: Functionality 3 (Everything works fine)
 
 3: Code 3 (My code is clean and in order)
 
-4: Storage 1 (Doesn't store mush information)
+4: Storage 2 (Doesn't store mush information)
 
 5: Documentation 2 (It can be better)
 
-10/15
+12/15
