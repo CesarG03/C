@@ -34,3 +34,5 @@ https://parzibyte.me/blog/2018/11/08/redondear-numeros-en-c/
 4: Storage 1 (I use stdio for some task in the right way)
 
 5: Documentation 2 (It can be better)
+
+10/15
