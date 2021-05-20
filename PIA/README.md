@@ -31,7 +31,7 @@ https://parzibyte.me/blog/2018/11/08/redondear-numeros-en-c/
 
 3: Code 3 (My code is clean and in order)
 
-4: Storage 1 (I use stdio for some task in the right way)
+4: Storage 1 (Doesn't store mush information)
 
 5: Documentation 2 (It can be better)
 
