@@ -20,6 +20,6 @@ Self-evaluation
 
 3: Code 3 (My code is clean and in order)
 
-4: Storage 2 (I use stido in the right way)
+4: Storage 2 (I use stdio in the right way)
 
 5: Documentation 2 (It can be better)
